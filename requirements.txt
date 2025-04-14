@@ -1,0 +1,8 @@
+SpeechRecognition==3.14.2
+PyAudio==0.2.14
+ollama==0.4.7
+webrowser(built in module)
+pyttsx3==2.98
+requests==2.32.3
+langchain_community==0.3.21
+opencv-python==0.3.21
